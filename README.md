@@ -1,5 +1,9 @@
 # Text-Classification-Clustering
 
+Link to Jupyter Notebook:
+
+https://github.com/philipMLdatascientist/Text-Classification-Clustering/blob/main/HDS807%20HW4.ipynb
+
 # Data Preparation
 
 - I now have a general impression of the data and developed strategies for feature engineering.

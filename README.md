@@ -15,4 +15,4 @@
 - Reviewing the confusion matrices, it is evident that the orthopedic and cardiovascular/pulmonary medical specialties demonstrated higher precision via complement NB, whereas neurology noted higher precision via multinomial NB.
 
 # Unsupervised Clustering
-- The TSNE projection above demonstrates that the majority of the clustering has been centered around the cardiovascular/pulmonary medical specialty, followed by orthopedic, and then neurology.
+- The TSNE projection demonstrates that the majority of the clustering has been centered around the cardiovascular/pulmonary medical specialty, followed by orthopedic, and then neurology.
